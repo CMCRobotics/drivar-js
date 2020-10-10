@@ -1,0 +1,22 @@
+{
+  "name": "drivar",
+  "version": "1.0.0",
+  "description": "Programmable RC car abstraction - in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMCRobotics/drivar-js.git"
+  },
+  "keywords": [
+    "drivar"
+  ],
+  "author": "Brice Copy",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/CMCRobotics/drivar-js/issues"
+  },
+  "homepage": "https://github.com/CMCRobotics/drivar-js#readme"
+}
