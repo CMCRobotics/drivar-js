@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/CMCRobotics/drivar-js/issues"
   },
-  "homepage": "https://github.com/CMCRobotics/drivar-js#readme"
+  "homepage": "https://github.com/CMCRobotics/drivar-js#readme",
+  "dependencies": {
+    "paho-mqtt": "^1.1.0"
+  }
 }
