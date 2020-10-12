@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/CMCRobotics/drivar-js#readme",
   "dependencies": {
-    "paho-mqtt": "^1.1.0"
+    "mqtt": "^4.2.1"
   }
 }
